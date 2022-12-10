@@ -1,5 +1,5 @@
-<h2>Hi 👋, I'm Onur Haktan</h1>
-<h4>A passionate developer from Turkey</h3>
+
+<h3>A passionate developer from Turkey</h3>
 
 <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan" height="30" width="40" /></a>
 </p>
