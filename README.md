@@ -1,6 +1,15 @@
 
 <h3>A passionate developer from Turkey</h3>
 
+  <p className="mb-3">👋 Hey everyone, I am Onur, a 4th-year student at Eskişehir Technical University. 
+           I develop web services, desktop applications and full-stack projects using Java, Spring Framework and AngularJS technologies.
+           I am approaching every task with responsibility and a growth mindset.
+           I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day.</p>
+          <p className="mb-3">🌱 Currently, I am learning C# and .NET technologies.</p> 
+          <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
+          <p className="mb-3">👨‍💻 You can access most of the projects I have developed through my GitHub profile.
+  </p>
+
 <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan" height="30" width="40" /></a>
 </p>
 
