@@ -7,7 +7,7 @@
            I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day.</p>
           <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
           <p className="mb-3">👨‍💻 You can access most of the projects I have developed through my GitHub profile.</p>
-          <p className="mb-3">  <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan" height="30" width="40" /></a My LinkedIn account </p>
+          <p className="mb-3">  <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan"  target="_blank" height="30" width="40"/> </a> </p>
           
 </p>
 <h3 align="left">Languages and Tools:</h3>
