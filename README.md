@@ -2,7 +2,7 @@
 <h3>A passionate developer from Turkey</h3>
 
   <p className="mb-3">👋 Hey everyone, I am Onur, a 4th-year student at Eskişehir Technical University. 
-           I develop web services, desktop applications and full-stack projects using Java, Spring Framework, C# and .NET Frameworks technologies.
+           I develop web services, desktop applications and full-stack projects using <b>Java, Spring Framework, C# and .NET Frameworks technologies.</b>
            I am approaching every task with responsibility and a growth mindset.
            I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day.</p>
           <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
