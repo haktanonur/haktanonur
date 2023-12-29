@@ -1,13 +1,15 @@
+<p align="center">
+  <img src="https://github.com/haktanonur/haktanonur/assets/69698425/47457d64-7c0a-4cbc-9429-e3b1ef5743d7" width="250" alt="kitten-keybo">
+</p>
+  
 
-<h3>A passionate developer from Turkey</h3>
-
-  <p className="mb-3">👋 Hey everyone, I am Onur, a 4th-year student at Eskişehir Technical University. 
-           I develop web services, desktop applications and full-stack projects using <b>Java, Spring Framework, C# and .NET Frameworks technologies.</b>
-           I am approaching every task with responsibility and a growth mindset.
-           I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day.</p>
-          <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
-          <p className="mb-3">👨‍💻 You can access most of the projects I have developed through my GitHub profile.</p>
-          <p className="mb-3">  <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan"  target="_blank" height="30" width="40"/> </a> </p>
+  <p className="mb-3">👋 Hey everyone, I am Onur, a 4th-year student at Eskişehir Technical University.</p>
+  <p className="mb-3">I develop web services, desktop applications and full-stack projects using <b>Java, Spring Framework, C# and .NET Frameworks technologies.</b></p>
+  <p className="mb-3">I am approaching every task with responsibility and a growth mindset. I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. </p>
+  <p className="mb-3">Fast learner and eager to explore new technologies. Always wanting to improve. Able and willing to think outside the box.</p>
+  <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
+  <p className="mb-3">👨‍💻 You can access most of the projects I have developed through my GitHub profile.</p>
+  <p className="mb-3">  <a href="https://linkedin.com/in/onur-haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-haktan"  target="_blank" height="30" width="40"/> </a> </p>
           
 </p>
 <h3 align="left">Languages and Tools:</h3>
