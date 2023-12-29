@@ -4,12 +4,10 @@
   <p className="mb-3">🧠 I am approaching every task with responsibility and a growth mindset. I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. </p>
   <p className="mb-3">⚡ Fast learner and eager to explore new technologies. Always wanting to improve. Able and willing to think outside the box.</p>
   <p className="mb-3">🔭 Additionally, I am involved in projects related to artificial intelligence and deep learning.</p> 
-  <p className="mb-3">👨🏼‍💻 You can access most of the projects I have developed through my GitHub profile. </p>
+  <p className="mb-3">👨🏼‍💻 Feel free to connect with me here: </p>
 
-  
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-haktan/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurhaktann@gmail.com)
-
 
 <h3 align="left">Technologies and Tools:</h3>
 
