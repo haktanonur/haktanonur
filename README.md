@@ -38,6 +38,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=haktanonur&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=haktanonur&color=blue) -->
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/onurhaktan?theme=nord&font=baloo&extension=null) -->
