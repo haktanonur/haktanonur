@@ -8,6 +8,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-haktan/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurhaktann@gmail.com)
+  <p>You can visit -> <a href="https://onurhaktan.vercel.app/">My Portfolio Site</a> </p>
 
 <h3 align="left">Technologies and Tools:</h3>
 
@@ -37,5 +38,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=haktanonur&color=blue)
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/onurhaktan?theme=nord&font=baloo&extension=null) -->
