@@ -1,4 +1,4 @@
-  <p align="center"> <img src="https://github.com/haktanonur/haktanonur/assets/69698425/b2eb659f-1abe-479d-988d-9cc3b6648b03" width="275" alt="software-software-development"> </p>
+  <p align="center"> <img src="https://github.com/haktanonur/haktanonur/assets/69698425/9be5f8a5-4c79-4347-a9b2-cefd81cc1705" width="300" alt="software-development"> </p>
   <p className="mb-3">👋 Hey everyone, I am Onur, a 4th-year student at Eskişehir Technical University.</p>
   <p className="mb-3">⌨️ I develop web services, desktop applications and full-stack projects using <b>Java, Spring Framework, C# and .NET Frameworks technologies.</b></p>
   <p className="mb-3">🧠 I am approaching every task with responsibility and a growth mindset. I am striving to improve my knowledge by developing, staying up-to-date, and learning new things day by day. </p>
